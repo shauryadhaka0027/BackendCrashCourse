@@ -1,0 +1,15 @@
+{
+    "todos": [
+      {
+        "id": 1,
+        "task": "Learn Node.js",
+        "status": false
+      },
+      {
+        "id": 2,
+        "task": "Build a REST API",
+        "status": false
+      }
+    ]
+  }
+  
